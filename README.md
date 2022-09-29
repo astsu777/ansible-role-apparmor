@@ -45,4 +45,4 @@ MIT / BSD
 Author Information
 ------------------
 
-My name is Gaétan. You can follow me on [Twitter](https://twitter.com/gaetanict)
+My name is Gaétan. You can follow me on [Twitter](https://twitter.com/astsu777)
